@@ -189,10 +189,10 @@
 	
 	// private
 	filter_private_off:{
-		uri: "[config.ui.skin]texture/map/filterChest_Off.png"
+		uri: "[config.ui.skin]texture/map/filterHouse_Off.png"
 	},
 	filter_private_on:{
-		uri: "[config.ui.skin]texture/map/filterChest_On.png"
+		uri: "[config.ui.skin]texture/map/filterHouse_On.png"
 	},
 	
 	// conquest
@@ -201,6 +201,14 @@
 	},
 	filter_conquest_on:{
 		uri: "[config.ui.skin]texture/map/filterPrism_On.png"
+	},
+
+	// anomaly
+	filter_anomaly_off:{
+		uri: "[config.ui.skin]texture/map/filterSpiral_Off.png"
+	},
+	filter_anomaly_on:{
+		uri: "[config.ui.skin]texture/map/filterSpiral_On.png"
 	},
 	
 	// all
