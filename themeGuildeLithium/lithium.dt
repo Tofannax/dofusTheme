@@ -1,10 +1,10 @@
 <theme>
 	<skinType><![CDATA[1]]></skinType>
 	<name><![CDATA[lithium]]></name>
-	<dofusVersion><![CDATA[2.51]]></dofusVersion>
+	<dofusVersion><![CDATA[2.49]]></dofusVersion>
 	<author><![CDATA[Tofannax]]></author>
 	<description><![CDATA[Basé sur le thème noir officiel, ce dernier est revu afin d'adopter des couleurs en adéquation avec la guilde Lithium.]]></description>
-	<version><![CDATA[2.51.1]]></version>
+	<version><![CDATA[1.2.1]]></version>
 	<creationDate><![CDATA[13/01/2019]]></creationDate>
-	<modificationDate><![CDATA[14/05/2019]]></modificationDate>
+	<modificationDate><![CDATA[13/01/2019]]></modificationDate>
 </theme>
